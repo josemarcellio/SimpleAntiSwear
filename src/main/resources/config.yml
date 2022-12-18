@@ -1,0 +1,4 @@
+#Please don't change the settings if you do not know the function of this.
+setting: "\\b(\\w*{bannedWord}\\w*)\\b"
+bannedWord: "kont[o]*l||idi[o]*t||b[a]*ng[s]*[a]*t"
+bannedMessage: "&cPlease don't use bad language in this server!"
