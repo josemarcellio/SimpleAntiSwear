@@ -3,3 +3,5 @@ main: com.josemarcellio.simpleantiswear.SimpleAntiSwear
 version: 1.0
 author: JoseMarcellio
 description: Simple Anti Swear by JoseMarcellio
+commands:
+  sawreload:

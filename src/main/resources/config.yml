@@ -1,4 +1,3 @@
-#Please don't change the settings if you do not know the function of this.
-setting: "\\b(\\w*{bannedWord}\\w*)\\b"
-bannedWord: "kont[o]*l||idi[o]*t||b[a]*ng[s]*[a]*t"
+#The banned words = idiot, stupid, and bangsat.
+bannedWord: "(?i)[i1][d2]*[i1]*[o0]*[t7]|(?i)[s5][t7][uu]*[pP]*[i1]*[d2]|(?i)[bB8][a4]*[n6]*[gG9]*[sS5]*[a4]*[t7]"
 bannedMessage: "&cPlease don't use bad language in this server!"
